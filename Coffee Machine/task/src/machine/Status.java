@@ -1,0 +1,11 @@
+package machine;
+
+public enum Status {
+    CHOOSINGACTION,
+    CHOOSINGCOFFEETYPE,
+    FILLINGWATER,
+    FILLINGMILK,
+    FILLINGBEANS,
+    FILLINGCUPS,
+    EXIT
+}

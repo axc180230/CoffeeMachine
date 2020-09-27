@@ -1,0 +1,9 @@
+machine/Coffees.java
+ machine.Coffees
+machine/Machine.java
+ machine.Machine
+ machine.Machine$1
+machine/Status.java
+ machine.Status
+machine/CoffeeMachine.java
+ machine.CoffeeMachine

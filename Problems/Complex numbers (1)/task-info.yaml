@@ -1,0 +1,14 @@
+type: code
+custom_name: Complex numbers
+files:
+- name: src/Main.java
+  visible: true
+  text: // write the class Complex here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2986
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2986">JetBrains
+    Academy</a></html>
+  time: Tue, 15 Sep 2020 02:14:20 UTC
+record: -1
